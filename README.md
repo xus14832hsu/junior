@@ -1,2 +1,2 @@
 # junior
-Practice in junior year
+Practice in junior year.
